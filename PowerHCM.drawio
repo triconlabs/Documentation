@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-29T05:42:58.385Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="oOodv-9_3Klpepq4P6w9" version="23.1.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-02-29T05:45:30.854Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="DuXUocqaUdEV3pAo8UpY" version="23.1.7" type="github" pages="2">
   <diagram name="Multi domain" id="JmBmETKlxDjm6wiNJbzR">
     <mxGraphModel dx="1120" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -65,7 +65,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="7RYtt0uI1fsFh6LfGeMq" name="Page-2">
+  <diagram id="7RYtt0uI1fsFh6LfGeMq" name="Master App">
     <mxGraphModel dx="1120" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
