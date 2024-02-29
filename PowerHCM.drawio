@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-29T05:45:30.854Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="DuXUocqaUdEV3pAo8UpY" version="23.1.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-02-29T05:48:55.325Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="CkknF9GBXIfHBxZFU4fg" version="23.1.7" type="github" pages="2">
   <diagram name="Multi domain" id="JmBmETKlxDjm6wiNJbzR">
     <mxGraphModel dx="1120" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -70,6 +70,27 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="2u0hzu5PAQS4wI0kazSP-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2u0hzu5PAQS4wI0kazSP-2" target="2u0hzu5PAQS4wI0kazSP-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2u0hzu5PAQS4wI0kazSP-2" value="Master Application" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="220" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2u0hzu5PAQS4wI0kazSP-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=67.5;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2u0hzu5PAQS4wI0kazSP-3" target="2u0hzu5PAQS4wI0kazSP-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2u0hzu5PAQS4wI0kazSP-3" value="Master DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="120" y="200" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="2u0hzu5PAQS4wI0kazSP-5" value="Sub domain" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="5" y="220" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2u0hzu5PAQS4wI0kazSP-7" value="DB Name" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2u0hzu5PAQS4wI0kazSP-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=32.5;exitPerimeter=0;entryX=0.833;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2u0hzu5PAQS4wI0kazSP-3" target="2u0hzu5PAQS4wI0kazSP-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
