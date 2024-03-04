@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-04T08:03:39.437Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="bga43mSEaDKRd9b2PmHg" version="24.0.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-03-04T09:24:28.555Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="ngx6Cubcy_A2lzN_LG3A" version="24.0.0" type="github" pages="7">
   <diagram name="Multi domain" id="JmBmETKlxDjm6wiNJbzR">
     <mxGraphModel dx="1120" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -318,6 +318,41 @@
         </mxCell>
         <mxCell id="FUpPWyy1DUX-_J3C6V5_-5" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="190" y="320" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ygKwVknP0vKqgt3JqZ8F" name="Domain Architecture Diagram">
+    <mxGraphModel dx="1120" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="r4saFTWcRLLO8xJwEpUx-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="r4saFTWcRLLO8xJwEpUx-1" target="r4saFTWcRLLO8xJwEpUx-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r4saFTWcRLLO8xJwEpUx-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="r4saFTWcRLLO8xJwEpUx-1" target="r4saFTWcRLLO8xJwEpUx-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r4saFTWcRLLO8xJwEpUx-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r4saFTWcRLLO8xJwEpUx-1" target="r4saFTWcRLLO8xJwEpUx-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r4saFTWcRLLO8xJwEpUx-1" value="&lt;b&gt;Core API&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="359" y="240" width="121" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="r4saFTWcRLLO8xJwEpUx-2" value="&lt;b&gt;Authentication&lt;/b&gt;&lt;div&gt;i) Token Generation&lt;/div&gt;&lt;div&gt;ii) Validate Token&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="179" y="210" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="r4saFTWcRLLO8xJwEpUx-3" value="&lt;b&gt;Sign Up&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="299" y="170" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r4saFTWcRLLO8xJwEpUx-4" value="&lt;b&gt;Sign In&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="170" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r4saFTWcRLLO8xJwEpUx-5" value="&lt;b&gt;Role&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r4saFTWcRLLO8xJwEpUx-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.617;entryY=0.967;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="r4saFTWcRLLO8xJwEpUx-1" target="r4saFTWcRLLO8xJwEpUx-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
