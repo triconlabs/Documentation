@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-04T10:29:52.025Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="SqoHPlJhmCqRnJyCILjj" version="24.0.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-03-04T12:34:34.846Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="6aqim9U2loKRj-IbYgrF" version="24.0.0" type="github" pages="8">
   <diagram name="Multi domain" id="JmBmETKlxDjm6wiNJbzR">
     <mxGraphModel dx="1120" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -323,7 +323,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ygKwVknP0vKqgt3JqZ8F" name="Domain Architecture Diagram">
-    <mxGraphModel dx="1179" dy="457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1244" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -469,6 +469,26 @@
         </mxCell>
         <mxCell id="r4saFTWcRLLO8xJwEpUx-57" value="&lt;b&gt;Core API&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="690" y="500" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="3kU9HJJYpaY3kzJdmOfB" name="Authentication System">
+    <mxGraphModel dx="1120" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JWOMMUBULk87JiwOiPub-1" value="Tokens" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="120" y="200" width="105" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="JWOMMUBULk87JiwOiPub-2" value="Authentication" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="80" width="330" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="JWOMMUBULk87JiwOiPub-3" value="Issuer" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="270" y="240" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="JWOMMUBULk87JiwOiPub-4" value="Audience" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="410" y="245" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
