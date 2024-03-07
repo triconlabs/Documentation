@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-07T07:13:20.215Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="AqG1c_6yrzZRlRlWDI2f" version="24.0.2" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-03-07T07:28:42.863Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="IMteth9I4Wjbwk4SL0bf" version="24.0.2" type="github" pages="8">
   <diagram name="Multi domain" id="JmBmETKlxDjm6wiNJbzR">
     <mxGraphModel dx="1120" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -239,7 +239,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9jJuh3kLMmWKdBu_3zwV" name="Authentication Core API">
-    <mxGraphModel dx="1179" dy="457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="926" dy="457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -295,7 +295,7 @@
             <mxPoint x="320" y="359.8421052631579" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-9TMmN5XRYpbzOBjrWj4-14" value="Authentication with JWT token" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="-9TMmN5XRYpbzOBjrWj4-14" value="Authentication with JWT" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="85" y="300" width="130" height="120" as="geometry" />
         </mxCell>
         <mxCell id="-9TMmN5XRYpbzOBjrWj4-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="-9TMmN5XRYpbzOBjrWj4-18" edge="1">
@@ -328,7 +328,7 @@
         <mxCell id="mvMXFubQfIWNU_j91nX7-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mvMXFubQfIWNU_j91nX7-6" target="mvMXFubQfIWNU_j91nX7-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mvMXFubQfIWNU_j91nX7-6" value="Authentication with JWT token" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mvMXFubQfIWNU_j91nX7-6" value="Authentication with JWT" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="565" y="300" width="130" height="120" as="geometry" />
         </mxCell>
         <mxCell id="mvMXFubQfIWNU_j91nX7-12" value="Invalid user" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
